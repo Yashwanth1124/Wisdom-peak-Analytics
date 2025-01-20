@@ -22,7 +22,7 @@ Ensure the following are installed on your local system:
 
 # Installation Steps
 ## Clone the Repository:
-git clone <repository-url>
+git clone https://github.com/Yashwanth1124/Wisdom-peak-Analytics.git
 cd <project-folder>
 
 ## Install Dependencies: Run the following command to install all the required packages:
