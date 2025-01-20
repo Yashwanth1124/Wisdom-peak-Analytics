@@ -30,7 +30,7 @@ Ensure the following are installed on your local system:
 ## Clone the Repository:
 git clone https://github.com/Yashwanth1124/Wisdom-peak-Analytics.git
 
-cd <project-folder>
+cd 'your-project-directory'
 
 ## Install Dependencies: Run the following command to install all the required packages:
 npm install
