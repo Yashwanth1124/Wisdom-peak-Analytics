@@ -6,23 +6,30 @@ This project is a simple React-based application to display a list of users with
 # Features
 ## Home Page
 User List: Displays a grid of users fetched from a backend or API.
+
 Sort A-Z Button: Allows sorting users alphabetically by name.
+
 Search Bar: Enables searching users by name.
+
 Dark Mode Toggle: Switches between light and dark themes for the entire application.
 
 ## User Details Page
 Displays detailed information about the selected user, including name, email, and city.
+
 Includes a Go Back Button to return to the home page.
 
 # Project Setup
 ## Prerequisites
 Ensure the following are installed on your local system:
+
 1)Node.js (v14 or later)
+
 2)npm (Node Package Manager) or yarn
 
 # Installation Steps
 ## Clone the Repository:
 git clone https://github.com/Yashwanth1124/Wisdom-peak-Analytics.git
+
 cd <project-folder>
 
 ## Install Dependencies: Run the following command to install all the required packages:
@@ -66,10 +73,12 @@ Contains the styles specific to the user details page.
 
 # Responsive Design
 The application is fully responsive and adapts to various screen sizes.
+
 On smaller screens, the dark mode toggle button appears below the title to avoid overlap.
 
 # Technologies Used
 React.js: For building the user interface.
+
 CSS: For styling the application, including light and dark modes.
 
 # License
